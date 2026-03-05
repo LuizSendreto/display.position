@@ -18,17 +18,11 @@ body{
     display: flex;
 }
 
-.blue2{
-    padding: 100px;
-    background-color: rgb(75, 75, 241);
+.red{
+    padding-right: 200px;
+    background-color: darkred;
 }
 
-.yo2{
-    padding: 60px;
-    margin: 10px;
-    background-color: yellow;
-}
-
-.flex2{
+.flex{
     display: flex;
 }

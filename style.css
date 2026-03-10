@@ -19,7 +19,7 @@ body{
 }
 
 .red{
-    padding-right: 200px;
+    padding-bottom: 200px;
     background-color: darkred;
 }
 
@@ -27,6 +27,10 @@ body{
 
 .green{
     padding-bottom: 200px;
-    background-color: yellow;
+
+}
+
+.blue{
+    padding-left: 100px;
 }
 

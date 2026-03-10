@@ -9,7 +9,7 @@ body{
 }
 
 .yo{
-    padding: 60px;
+    padding: 40px;
     margin: 10px;
     background-color: yellow;
 }
@@ -19,14 +19,14 @@ body{
 }
 
 .red{
-    padding-bottom: 200px;
+    padding: -60px;
     background-color: rgb(251, 255, 3);
 }
 
 
 
 .green{
-    padding-bottom: 200px;
+    padding-top: 200px;
 
 }
 
